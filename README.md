@@ -1,2 +1,2 @@
-# Fundamentos de Programacion
-Contenidos del curso de Fundamentos de Programación para el periodo 2021/01 en la Universidad EAFIT - Medellín, Colombia
+# Introducción a la Programacion empleando Python
+Contenidos de un curso de introducción a la programación empleando el lenguaje Python
