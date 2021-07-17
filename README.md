@@ -1,2 +1,2 @@
 # Fundamentos de Programacion empleando Python
-Contenidos de un curso de introducción a la programación, fundamentos, empleando el lenguaje [Python](https://www.python.org/) y [Jupyter Notebook](https://jupyter.org/)
+Contenidos de un curso de fundamentos de programación empleando el lenguaje [Python](https://www.python.org/) y como herramienta de desarrollo el entorno [Jupyter Notebook](https://jupyter.org/)
