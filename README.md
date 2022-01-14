@@ -3,24 +3,24 @@ Contenidos de un curso de fundamentos de programación empleando el lenguaje [Py
 
 ## Contenido
 
-|**Semana** | **Fecha**         |**Contenido** |**Actividad Evaluativa**|
-|:-----:|:-------------:|-----------|----------------------|
-|01     |18/07/2019| [Introducción](https://github.com/carlosalvarezh/Fundamentos_Programacion/blob/main/Modulo01_Introduccion.ipynb "Introducción")|      |
-|02|25/07/2019|[Entrada y Salida Básica, Tipos y Variables, Lógica Boolean](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion02_IO_basico_Variables_LogicaBooleana.ipynb "Sesion02_IO_Basico") ||
-|03|01/08/2019|[Estructuras de control de flujo](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion03_Estructuras_de_control_de_flujo.ipynb "Sesion03: Estructuras de control de flujo")||
-|04|08/08/2019|[Funciones](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion04_Funciones.ipynb "Sesion 04: Funciones")|Taller 01 (10%)|
-|05|15/08/2019|I/O-02a: Manipulación de archivos||
-|06|22/08/2019|I/O-02b: CSV, Manejo de Excepciones||
-|07|29/08/2019|Listas, Strings|Taller 02 (20%)|
-|08|05/09/2019|Tuplas, Conjuntos (sets), Diccionarios |Asamblea Estudiantíl|
-|09|12/09/2019|Algoritmos 1: Búsqueda y Ordenamiento||
-|10|19/09/2019|Algoritmos 2: Búsqueda y Ordenamiento||
-|11|26/09/2019|Ecosistema Python: Bibliotecas Visualización (Matplotlib)|Taller 03 (20%)|
-|12|03/10/2019|Ecosistema Python: Bibliotecas Visualización de Información (Pandas)||
-|13|10/10/2019|Ecosistema Python: Bibliotecas científicas (Numpy)||
-|14|17/10/2019|Programación Orientada a Objetos (POO): Clases, Objetos, Instancias, Herencia, Constructores (Init)|Taller 04 (20%)|
-|15|24/10/2019|Programación Orientada a Objetos (POO): Módulos, Bibliotecas||
-|16|31/10/2019|Cierre: Integración de temas vistos en el curso||
-|17|07/11/2019|Semana de Colchón ||
-|18|14/11/2019|Semana finales 1 ||
-|19|21/11/2019|Semana finales 2 |Final (30%) - Define Admisiones|
+|**Semana** | **Fecha**     |**Contenido** |**Actividad Evaluativa**|
+|:---------:|:-------------:|-----------|----------------------|
+|01         |               | [Introducción](https://github.com/carlosalvarezh/Fundamentos_Programacion/blob/main/Modulo01_Introduccion.ipynb "Introducción")|      |
+|02         |               |[Entrada y Salida Básica, Tipos y Variables, Lógica Boolean](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion02_IO_basico_Variables_LogicaBooleana.ipynb "Sesion02_IO_Basico") ||
+|03         |               |[Estructuras de control de flujo](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion03_Estructuras_de_control_de_flujo.ipynb "Sesion03: Estructuras de control de flujo")||
+|04         |               |[Funciones](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion04_Funciones.ipynb "Sesion 04: Funciones")|Taller 01 (10%)|
+|05||I/O-02a: Manipulación de archivos||
+|06||I/O-02b: CSV, Manejo de Excepciones||
+|07||Listas, Strings|Taller 02 (20%)|
+|08||Tuplas, Conjuntos (sets), Diccionarios |Asamblea Estudiantíl|
+|09||Algoritmos 1: Búsqueda y Ordenamiento||
+|10||Algoritmos 2: Búsqueda y Ordenamiento||
+|11||Ecosistema Python: Bibliotecas Visualización (Matplotlib)|Taller 03 (20%)|
+|12||Ecosistema Python: Bibliotecas Visualización de Información (Pandas)||
+|13||Ecosistema Python: Bibliotecas científicas (Numpy)||
+|14||Programación Orientada a Objetos (POO): Clases, Objetos, Instancias, Herencia, Constructores (Init)|Taller 04 (20%)|
+|15||Programación Orientada a Objetos (POO): Módulos, Bibliotecas||
+|16||Cierre: Integración de temas vistos en el curso||
+|17||Semana de Colchón ||
+|18||Semana finales 1 ||
+|19||Semana finales 2 |Final (30%) - Define Admisiones|
