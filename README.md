@@ -18,6 +18,4 @@ Contenidos de un curso de fundamentos de programación empleando el lenguaje [Py
 |11||Ecosistema Python: Bibliotecas Visualización (Matplotlib)|
 |12||Ecosistema Python: Bibliotecas Visualización de Información (Pandas)|
 |13||Ecosistema Python: Bibliotecas científicas (Numpy)|
-|14||Programación Orientada a Objetos (POO): Clases, Objetos, Instancias, Herencia, Constructores (Init)|
-|15||Programación Orientada a Objetos (POO): Módulos, Bibliotecas|
-|16||Cierre: Integración de temas vistos en el curso|
+|14||Cierre: Integración de temas vistos en el curso|
