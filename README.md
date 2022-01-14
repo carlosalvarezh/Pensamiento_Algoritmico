@@ -5,7 +5,7 @@ Contenidos de un curso de fundamentos de programación empleando el lenguaje [Py
 
 |**Semana** | **Fecha**         |**Contenido** |**Actividad Evaluativa**|
 |:-----:|:-------------:|-----------|----------------------|
-|01     |18/07/2019|[Presentación del curso](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_00_Presentacion.ipynb "Presentación del Curso"). Entorno e Instalación, Herramientas: IDE’s ([Jupyter](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_01_BreveIntro_a_Jupyter.ipynb "Breve introducción a Jupyter"), repl.it). [Introducción](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_02_introduccion.ipynb "Introducción")|      |
+|01     |18/07/2019| [Introducción](https://github.com/carlosalvarezh/Fundamentos_Programacion/blob/main/Modulo01_Introduccion.ipynb "Introducción")|      |
 |02|25/07/2019|[Entrada y Salida Básica, Tipos y Variables, Lógica Boolean](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion02_IO_basico_Variables_LogicaBooleana.ipynb "Sesion02_IO_Basico") ||
 |03|01/08/2019|[Estructuras de control de flujo](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion03_Estructuras_de_control_de_flujo.ipynb "Sesion03: Estructuras de control de flujo")||
 |04|08/08/2019|[Funciones](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion04_Funciones.ipynb "Sesion 04: Funciones")|Taller 01 (10%)|
