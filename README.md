@@ -4,7 +4,7 @@ Contenidos de un curso de fundamentos de programación empleando el lenguaje [Py
 ## Contenido
 
 |**Sesión** | **Fecha**     |**Contenido** |
-|:---------:|:-------------:|-----------|----------------------|
+|:---------:|:-------------:|-----------|
 |01         |               | [Introducción](https://github.com/carlosalvarezh/Fundamentos_Programacion/blob/main/Modulo01_Introduccion.ipynb "Introducción")|
 |02         |               |[Entrada y Salida Básica, Tipos y Variables, Lógica Boolean](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion02_IO_basico_Variables_LogicaBooleana.ipynb "Sesion02_IO_Basico") |
 |03         |               |[Estructuras de control de flujo](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion03_Estructuras_de_control_de_flujo.ipynb "Sesion03: Estructuras de control de flujo")|
